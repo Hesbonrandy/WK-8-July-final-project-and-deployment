@@ -1,5 +1,4 @@
 # ☕ MonRan Coffee House — Nairobi’s Community Brew  
-**WK-8 Final Project & Deployment**
 
 A responsive, multipage website for a coffee house in **Kinoo, Waiyaki Way, Nairobi** — built with **HTML5, CSS3, and JavaScript**.  
 All menu prices are displayed in **Kenyan Shillings (KSh)**.
