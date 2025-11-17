@@ -37,16 +37,16 @@ This project fulfills all **WK-8 assignment requirements** using only **vanilla 
 
 ## 📁 Project Structure
 
-├── index.html # Home page
-├── about.html # Story, team, space gallery
-├── menu.html # Filterable menu with KSh prices
-├── events.html # Coworking perks & events
-├── contact.html # Map, contact form, newsletter
+├── index.html 
+├── about.html 
+├── menu.html 
+├── events.html
+├── contact.html 
 ├── css/
-│ └── style.css # Bright coffee-themed styles
+│ └── style.css 
 ├── js/
-│ └── main.js # Interactive features
-└── images/ # Logo, drinks, food, space photos
+│ └── main.js 
+└── images/ 
 
 ---
 
