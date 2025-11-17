@@ -36,6 +36,7 @@ This project fulfills all **WK-8 assignment requirements** using only **vanilla 
 
 ## 📁 Project Structure
 
+```
 project-root/
 ├── index.html
 ├── about.html
@@ -47,8 +48,7 @@ project-root/
 ├── js/
 │   └── main.js
 └── images/
-
----
+```
 
 ## 🚀 Deployment
 
